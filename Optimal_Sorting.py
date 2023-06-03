@@ -12,4 +12,3 @@ for i in range(n):
         ma=max(l)
         mi=min(l)
         print(ma-mi)
-        
